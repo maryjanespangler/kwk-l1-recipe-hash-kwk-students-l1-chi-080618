@@ -12,7 +12,7 @@ perfect_10_recipe {:almond_flour => "2 cups"
 :olive_oil => "1/2 cup" 
 :agave => "1/4 cup"}
  return perfect_10_recipe
- end
+ 
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
